@@ -1,6 +1,6 @@
 {
   "name": "baconipsum",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Bacon Ipsum for Node.JS",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,11 @@
   },
   "author": "Jeffrey Thompson <coldie@coldie.net>",
   "license": "BSD-2-Clause",
+  "repository" :
+    {
+      "type" : "git",
+      "url" : "http://github.com/coldie/bacon.git"
+    },
   "devDependencies": {
     "nodeunit": "~0.8.2"
   }
