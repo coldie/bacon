@@ -1,0 +1,14 @@
+{
+  "name": "baconipsum",
+  "version": "0.1.0",
+  "description": "Bacon Ipsum for Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "author": "Jeffrey Thompson <coldie@coldie.net>",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "nodeunit": "~0.8.2"
+  }
+}
