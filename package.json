@@ -1,6 +1,6 @@
 {
   "name": "baconipsum",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Bacon Ipsum for Node.JS",
   "main": "index.js",
   "scripts": {
